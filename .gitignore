@@ -1,0 +1,5 @@
+node_modules
+cache
+artifacts
+script_box
+typechain-types
